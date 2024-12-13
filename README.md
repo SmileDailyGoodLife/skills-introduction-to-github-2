@@ -1,4 +1,3 @@
-Let's create my first pull request !!
 <header>     
 
 <!--
@@ -21,9 +20,10 @@ _Get started using GitHub in less than an hour._
   Link to docs.github.com for further explanations.
   Encourage users to open new tabs for steps!
 -->
+Let's create my first pull request !!
 
 ## Step 1: Create a branch
-
+ 
 _Welcome to "Introduction to GitHub"! :wave:_
 
 **What is GitHub?**: GitHub is a collaboration platform that uses _[Git](https://docs.github.com/get-started/quickstart/github-glossary#git)_ for versioning. GitHub is a popular place to share and contribute to [open-source](https://docs.github.com/get-started/quickstart/github-glossary#open-source) software.
